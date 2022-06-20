@@ -1,0 +1,17 @@
+.App {
+
+}
+
+.Inputs {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+}
+
+.Input {
+  margin: 10px;
+}
+
+button {
+  margin: 10px;
+}
